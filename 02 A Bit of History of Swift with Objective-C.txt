@@ -1,0 +1,25 @@
+* How The Historically iOS Development Evolved ?
+
+- Previously we used to write everything in Objective-C, which is not one of the most friendliest of the language
+  but it was very consistent and thats why a lot of people moved into the version or era of writing iOS app
+  with Objective-C.
+
+- Things got actually changed and evolved as soon as Swift is introduced.
+
+- Swift is a compiled language.
+  Hence it is very Performant and Optimized language (for apple devices).
+
+- Apple doesn't introduced a Swift directly. It was a very smooth transition.
+  All developers who writing Objective-C code can use Objective-C in Swift in
+  earlier days. But now onwards everything is moving into Swift direction.
+
+- In 2014, Swift first version was lanunched Swift 1.0 XCode6.
+  
+- As there some issues like lack of try catch in first version,
+  Thereafter in 2015, Swift 2.2 released which was Open Source.
+
+- Then in 2019, the most polished version Swift 5 was released which is also Open Source.
+
+- And in 2021, Swift 5.5 Open Source was released.
+
+- Apart from it Swift 5.6 to be released in 2022.

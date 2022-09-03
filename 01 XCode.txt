@@ -1,0 +1,17 @@
+XCode :-
+
+ In order to build any kind of apps in the app store that is going to required an xcode.
+
+ Whether your is app going into you apple device may be an iphone, may be an apple watch,
+ may be an apple tv all goes through xcode
+
+ That is one of the beauty about ios or apple ecosystem that you don't require too much
+ ton of assets (we just need xcode to work on well).
+
+ We just require some assets in terms of images, icons, audio etc.
+
+ Xcode is such a big software it is a not only place where we write the code but also
+ is a place we test our code. It actually comes with simulators of apple devices iPhones,
+ iPads and it even installs some of the command line tools but the good thing is you 
+ don't require any hardware devices for the majority of the apps and we can also work on
+ testing the multiple devices like iPhone 12 or iPhone 13 etc.
