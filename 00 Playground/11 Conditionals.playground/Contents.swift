@@ -1,7 +1,5 @@
 // Conditional Statement : If Else
 
-import Darwin
-
 var accountBalance = 199
 var alertTrigger = 100
 var offerTrigger = 150
