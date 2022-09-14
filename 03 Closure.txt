@@ -1,0 +1,30 @@
+* What is Closure ?
+
+- Closure is simply a function without name (of course without func keyword too).
+
+- Closure can be thrown around in any variable.
+
+- Closure is a refernce type. (Whenever you assign a function or a closure to a 
+  constant or a variable, you are actually setting that constant or variable to 
+  be a reference to the function or closure)
+
+- Closure is more likey used in app building a lot of times.
+
+- Usually, closure execute the moment we call somewhere in code.
+  But there are some situations we don't want this to happen,
+  specially when we are talking to internet, suppose there is a data url
+  where we are downloading image and passing some methods onto that and in 
+  those cases we want to execute our closure when image is being downloaded
+  from the web.
+  (note : refer dataTask function in file Playground/14 Closures)
+
+
+* Why we don't write var or let keyword in paramters variable 
+  declaration of Closure or Function  ?
+
+- In swift functions are designed in way where, function parameters 
+  are by default constant (i.e. implicitly defined with let keyword), 
+  we no need to write let explicitly. 
+
+- And as paramters by default constant there in no point or 
+  concern of discussing var keyword.
