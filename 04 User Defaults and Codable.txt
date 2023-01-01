@@ -1,0 +1,19 @@
+* What is User Defaults ?
+
+- Whenever we are going to make any app in which we want to store some data (to store user preferences)
+  or want to retrieve some data, edit the data. Now this data can go into the user defaults.
+
+- For example, when we select dark mode for any application, 
+  this data (says that selected mode is dark one now) is stored into user defaults.
+
+- Every application behaves it is own sandbox i.e. its store some of its own (app) information
+  and it doesn't really pollute anything outside of it i.e. doesn't store anything outside of app
+  environment. This storage or database in app environement is called as User Defaults.
+
+
+* What is Codable ?
+
+- Protocol which simply converts (either encodes or decodes) the data into the required type.
+
+- Codable is the combined protocol of Swift's Decodable and Encodable protocols. Together they
+  provide standard methods of decoding data for custom types and encoding data to be saved or transferred.

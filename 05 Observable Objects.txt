@@ -1,0 +1,15 @@
+* What are Observable Objects and Published? 
+
+- When any class follows a protocol of Observable Objects and we marks some of properties of
+  that class as published, then that properties are observable i.e. we can observe that properties
+  and any change in them (properties) will automatically tells the swiftui that we need to 
+  repopulate or reupdate the UI.
+
+* State Management in SwiftUI :-
+
+1) State 
+2) Binding
+3) ObservableObject with Published and ObservedObject
+4) EnvironmentObject
+
+hint: https://betterprogramming.pub/the-complete-guide-to-state-management-in-swiftui-8759add64bcf
