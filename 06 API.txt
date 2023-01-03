@@ -1,0 +1,11 @@
+* What is API ?
+
+- The way these days applications are being designed, there is a stand alone backend and that
+  backend can talk to your android app, to your iOS app, to you website. So the whole idea is 
+  to create centralized backend which can just throw the APIs and (front-end) developers can 
+  handle those APIs.
+
+- Handling APIs is one of the most key important aspect of developer who is building iOS app,
+  android app or any thing else (front-end).
+
+- APIs is a simple of talking to your database or talking to your backend for frontend.
