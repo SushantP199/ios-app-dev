@@ -34,14 +34,16 @@ struct ContentView: View {
             
             Spacer()
             
-            if fuelStations.isEmpty {
+            if fuelStations.isEmpty && !showAlert {
                 ProgressView()
                     .padding()
                 
                 Text("Fuel Stations loading...")
                 
                 Spacer()
-            } else {
+            }
+            
+            if !fuelStations.isEmpty {
                 ScrollView {
                     LazyVStack {
                         ForEach(fuelStations, id: \.id) { fuelStation in
